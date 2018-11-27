@@ -15,7 +15,7 @@ public class Embotelladora {
 			}
 		}
 	}
-	
+
 	public static void main(String[] args) {
 		System.out.format("%d\n", calculaBotellasPequenas(1,2,6));
 	}
